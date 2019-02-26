@@ -1,2 +1,2 @@
 # dockerfiles
-list of development containers
+list of useful development containers
