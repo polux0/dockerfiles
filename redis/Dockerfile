@@ -2,5 +2,5 @@
 FROM alpine
 #Download and install dependencies
 RUN apk add --update redis
-#Place 
+#Specify default command
 CMD ["redis-server"]
